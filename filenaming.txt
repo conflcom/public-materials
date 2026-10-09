@@ -1,0 +1,13 @@
+What do the files mean:
+
+WordMark: Only the stylized text of the logo
+Icon - Only the icon from the logo(In our case its a circle with two circles, kind of mimicking a face)
+LockUp - The text and the icon together.
+
+Bow - Black on white(Black text, white backround)
+Wow - White on black(White text, black backround)
+
+The two main colors used here are:
+
+White - D5D2CC
+Black - 212020
